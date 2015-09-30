@@ -1,0 +1,10 @@
+This is information for my WIFI light switch.
+
+The goal is to build a switch controller with 
+
+1) WIFI 
+2) Internal power supply
+3) Manual button
+4) Feedback to know what state the switch is in
+5) Sized to mount inside a switch box. 
+6) LED Indicatior? 2 color Red / Green

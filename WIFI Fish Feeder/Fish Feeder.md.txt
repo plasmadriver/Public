@@ -1,0 +1,7 @@
+WIFI enabled automated fish feeder
+
+1) WIFI
+2) Manual feed buttons
+3) Feed out sensor
+4) Temp sensor To detect winter feeder schedule
+5) Motor drive
